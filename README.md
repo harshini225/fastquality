@@ -1,3 +1,5 @@
+![myimage](fastq.png)
+
 # fastquality
 This project was made for Hack @ Brown 2021 by Megan (Liliana) Mack, Jack Walker & Harshini Venkatachalam. 
 
