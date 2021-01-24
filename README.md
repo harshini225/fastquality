@@ -18,16 +18,14 @@ How to use this program:
 Make sure a JDK is installed on your computer ahead of time if using the command line. 
 
 From the command line:
-1. Clone this directory
-2. From your computer's terminal/shell, run 
-javac Parser.java
-3. Change directory to the src directory using 
-cd src
+1. Clone this repository.
+2. From your computer's terminal/shell, go into the src directory of this program.
+3. Run javac Parser.java to compile. 
 4. Run the Parser!
 java Parser <fastq file to change> <output fastq file>
 
 From an Integrated Development Environment (IDE): 
-1. Clone this directory 
+1. Clone this repository.
 2. Edit the arguments of the Parser file to 
 <fastq file to change> <output fastq file>
 3. Run! 
