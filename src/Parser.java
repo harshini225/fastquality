@@ -92,12 +92,12 @@ public class Parser {
       String line = fr.readLine();
       while (line != null) {
         tag++;
-        String n = line; //tag
+        //String n = line; //tag
         line = fr.readLine();
         String sq = line; // this is the sequence
         rawRead = sq.toCharArray();
 
-        line = fr.readLine();
+        //line = fr.readLine();
         line = fr.readLine(); // this is the quality sequence
         String q = line;
         rawQ = q.toCharArray();
