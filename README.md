@@ -33,7 +33,7 @@ From an Integrated Development Environment (IDE):
 3. Run! 
 
 Testing: 
-This project was tested on several small generated fastq files and a larger fastq file from the 1000 Genomes Project: https://drive.google.com/file/d/1QAilfDK5_oHBH6PhTf8Z9BgWxIVzfDw2/view (~600 MB)
+This project was tested on several small generated fastq files and a larger fastq file, Sample HG01600, from the 1000 Genomes Project: https://drive.google.com/file/d/1QAilfDK5_oHBH6PhTf8Z9BgWxIVzfDw2/view (~600 MB)
 
 Notes on Improvement:  
 
