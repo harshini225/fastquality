@@ -8,12 +8,7 @@ One of the main file formats used in this workflow is a .fastq file.
 This file contains sequence tags/IDs, the read sequence, and a string of characters that correspond to quality scores. 
 
 Not many DNA alignment schemes incorporate this information to determine a final sequence, but by writing a program that 
-makes the reads more accurate ... 
-
-
-TODO: fill this out 
-
-we can achieve more efficient and accurate sequencing! 
+makes the reads more accurate, we can achieve more efficient and accurate sequencing! 
 
 What our program does: 
 Right now, it uses the method of trimming unacceptable quality base pair reads from the beginning and end of each read sequence, where the sequencing quality and confidence declines. 
