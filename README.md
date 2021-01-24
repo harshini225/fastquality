@@ -1,5 +1,5 @@
 # fastquality
-This project was made for Hack @ Brown 2021 by Megan Mack, Jack Walker & Harshini Venkatachalam. 
+This project was made for Hack @ Brown 2021 by Megan (Liliana) Mack, Jack Walker & Harshini Venkatachalam. 
 
 Context: 
 One of the main issues that computational biologists/bioinformaticians face is assembling DNA sequences from reads. Since DNA sequences are so long, they must be assembled by putting together shorter reads from all over the genome. There are many technologies/companies (like Illumina and Pacific Biosciences) that can provide and output reads, but using that output to assemble the sequence and further analyze sequences is more difficult.
@@ -38,5 +38,5 @@ If we had more time, we would implement more quality control measures, such as m
 
 =======
 
-hack @ brown 21 
+hack @ brown Jan 21 
 let's clone some repositories
