@@ -32,6 +32,9 @@ From an Integrated Development Environment (IDE):
 <fastq file to change> <output fastq file>
 3. Run! 
 
+Testing: 
+This project was tested on several small generated fastq files and a larger fastq file from the 1000 Genomes Project: https://drive.google.com/file/d/1QAilfDK5_oHBH6PhTf8Z9BgWxIVzfDw2/view (~600 MB)
+
 Notes on Improvement:  
 
 If we had more time, we would implement more quality control measures, such as monitoring uniformity of G/C base pairs or checking for quality score averages across the windows of a read. We would also test out this program with an existing genome alignment scheme.  
